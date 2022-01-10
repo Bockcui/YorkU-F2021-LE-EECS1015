@@ -1,11 +1,3 @@
-###########################################
-# EECS1015 - Final exam (utilities.py)
-# Name: Cheng Tian Cui
-# Student ID: 218082305
-# Email: cttcui@my.yorku.ca
-# Section A
-###########################################
-
 from random import randint as ri
 
 # variables needed for task 3
