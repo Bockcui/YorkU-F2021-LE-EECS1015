@@ -1,13 +1,3 @@
-###################
-#
-# Lab 9
-# Author: Cheng Tian Cui
-# Email: cttcui@my.yorku.ca
-# Student ID: 218082305
-# Section A
-#
-###################
-
 from MinMaxList import MinMaxList
 from random import randint
 
