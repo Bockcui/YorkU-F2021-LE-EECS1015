@@ -1,14 +1,8 @@
-# Lab 1
-# Author: Cheng Tian Cui
-# Email: cttcui@my.yorku.ca
-# Student ID: 218082305
-# Section A
-
 #Part 1
-print("My name is Cheng Tian Cui.")
-print("My York student ID is 218082305.")
-print("I'm in Section A.")
-print("I currently live in Toronto, Canada.\n")
+print("My name is XX.")
+print("My York student ID is XX.")
+print("I'm in X.")
+print("I currently live in X\n")
 
 #Input
 CAD = float(input("Enter amount in Canadian dollars: "))
