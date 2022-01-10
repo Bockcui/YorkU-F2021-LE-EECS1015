@@ -1,9 +1,3 @@
-# Lab 5
-# Author: Cheng Tian Cui
-# Email: cttcui@my.yorku.ca
-# Student ID: 218082305
-# Section A
-
 import random
 import pyttsx3
 
