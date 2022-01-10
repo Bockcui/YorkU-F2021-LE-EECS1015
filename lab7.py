@@ -1,17 +1,3 @@
-# Lab 7
-# Author: Cheng Tian Cui
-# Email: cttcui@my.yorku.ca
-# Student ID: 218082305
-
-#########################
-#  EECS1015 - York University
-#  Lab #7 - Starting Code
-#  Writing test cases
-#  Make sure you install PyTest (see lecture notes)
-#  NOTE - You can only run this in PyCharm for a project that has installed PyTest
-#  You cannot double click on this file.  That is fine, we can test it once you submit it.
-#########################
-
 import pytest
 from typing import List
 
