@@ -13,7 +13,7 @@ class Snail:
     animation = ["__~@", "_~_@", "~__@"]
 
     def __init__(self, initials):
-        assert len(initials) <= 2, "Snail's initials must be 2 characters."
+        assert len(initials) <= 2, "Snail's initials must be 2 characters." #Mistake here, should be len(initials) == 2 for exactly 2 chars in name
         self.name = initials.upper()
         self.speed = random.randint(1, 10)/10
         self.frame = 0
