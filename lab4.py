@@ -1,9 +1,3 @@
-# Lab 4
-# Author: Cheng Tian Cui
-# Email: cttcui@my.yorku.ca
-# Section A
-# Student ID: 218082305
-
 #Import modules
 import random
 
