@@ -10,6 +10,7 @@
 
 class MinMaxList:
     def __init__(self, initializeList):
+        #Mistake here, should assert initializeList is not empty
         self.listData = initializeList
         self.listData.sort()
 
