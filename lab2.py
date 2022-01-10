@@ -1,9 +1,3 @@
-# Lab 2
-# Author: Cheng Tian Cui
-# Email: cttcui@my.yorku.ca
-# Student ID: 218082308
-# Section A
-
 #Task 1
 print("\n----Task 1---- BMI Calculator")
 
