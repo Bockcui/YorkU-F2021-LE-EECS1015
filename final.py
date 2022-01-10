@@ -1,11 +1,3 @@
-###########################################
-# EECS1015 - Final exam (final.py)
-# Name: Cheng Tian Cui
-# Student ID: 218082305
-# Email: cttcui@my.yorku.ca
-# Section A
-###########################################
-
 import utilities as u
 from random import randint as ri
 from time import sleep as sleep
@@ -26,10 +18,10 @@ def main():
 
 def task0():
     print('Final Exam - EECS1015')
-    print('Name: Cheng Tian Cui')
-    print('Student ID: 218082305')
-    print('Email: cttcui@my.yorku.ca')
-    print('Section A')
+    print('Name: XX')
+    print('Student ID: XX')
+    print('Email: XX')
+    print('Section X')
 
 
 def task1():
