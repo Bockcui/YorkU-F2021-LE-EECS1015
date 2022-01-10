@@ -2,10 +2,10 @@ import random
 
 def task0():
     print('Midterm Exam - EECS1015')
-    print('Name: Cheng Tian Cui')
-    print('Student ID: 218082305')
-    print('email: cttcui@my.yorku.ca')
-    print('Section A')
+    print('Name: XX')
+    print('Student ID: XX')
+    print('email: XX')
+    print('Section X')
 
 def task1():
     print('\n----------Task 1-----------')
