@@ -1,13 +1,3 @@
-######
-#
-# Lab 9
-# Author: Cheng Tian Cui
-# Email: cttcui@my.yorku.ca
-# Student ID: 218082305
-# Section A
-#
-####
-
 class MinMaxList:
     def __init__(self, initializeList):
         #Mistake here, should assert initializeList is not empty
