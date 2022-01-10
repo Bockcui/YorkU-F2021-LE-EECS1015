@@ -1,9 +1,3 @@
-# Lab 6
-# Name: Cheng Tian Cui
-# Email: cttcui@my.yorku.ca
-# Student ID: 218082305
-# Section A
-
 # variables for task 1
 dictMenu = {'Fruits': {'Apple': 1.99, 'Banana': 0.59, 'Kiwi': 1.1, 'Grapes': 2.99, 'Pear': 2.15},
             'Drinks': {'Water': 1.0, 'Juice': 3.5, 'Coffee': 1.5, 'Soda': 1.5, 'Tea': 1.25},
