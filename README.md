@@ -29,3 +29,5 @@ Lab 9 - 90%
 
 ## Final Exam (30% of total grade):
 100%
+
+## Overall Grade: 99.53%
