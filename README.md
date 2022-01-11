@@ -1,4 +1,4 @@
-# YorkU-Fall-2021-SC-EECS-1015
+# YorkU F2021 LE/EECS1015
 
 ## Quizzes (20% of total grade):
 
